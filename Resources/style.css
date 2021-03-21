@@ -25,3 +25,11 @@
     transform: scale(2, 2);
     cursor: pointer
 }
+
+.responsive {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+}
+
+
